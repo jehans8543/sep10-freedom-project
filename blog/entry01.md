@@ -1,9 +1,9 @@
 # Entry: Deciding on a Topic 1
-##### 10/07/2024
+##### 10.07.2024
 
-##Choosing a Topic
+## Choosing a Topic
 
-The topic that I choose to go over for my project is the government. The reason why I decided to choose the government is becasue of my current interest in working in the government in the future. Even though I am still not fully sure that this is something that I want to do in the future, I believe that creating my project centered around that will allow me to understand what I want to do even further. I figured that if I choose to reserach the government I will learn whether or not I am truly passionate about it.  
+The topic that I choose to my project around is the government. The reason why I decided to choose the government is becasue of my interest working in that feild in the future. Even though I am still not fully sure that this is what I want to do, I believe that making my project centered around it will allow me to understand have an understanding and a idea of what it really is about. Allowing me to find out if I am truly interested working in the government, rather than finding out later. 
 
 [Next](entry02.md)
 
