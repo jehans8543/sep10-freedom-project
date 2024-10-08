@@ -21,7 +21,12 @@ Despite all of these articles being quite intriguing by themselves. It did not i
 * [Technology in the public sector and the future of government work - UC Berkeley Labor Center](https://laborcenter.berkeley.edu/technology-in-the-public-sector-and-the-future-of-government-work/) by "_Sara Hinkley_"
   * This article convinced me because I was able to find genuine interest while reading it. I was also able to make continuous ideas about how I can include this information in my project.
 * [Government Technology | IDEA Analytics](https://analyticsbyidea.com/government-technology/) by "_Idea Analytics_"
-  *  I found this article convincing as well because it gives a thorough explanation of how technology is used in the government, and how it will benefit the field for the better. It also shares expectations of future technology and how it will further improve than what it is now. 
+  *  I found this article convincing as well because it gives a thorough explanation of how technology is used in the government, and how it will benefit the field for the better. It also shares expectations of future technology and how it will further improve than what it is now.
+
+ ## Engineering Design Process
+I am currently in the **first stage** moving onto the **second stage** of the engineering desigm process, where in the first stage I have to define what it is I want to do. What I mean by this is that I have to be able to figure out what I am **interested** in creating for the rest of the school year. As for me I was able to get past this stage pretty quickly, because of me knowing that I want to research about the government right off the bat. 
+
+Since I am complete with the first stage, I am now slowing moving onto the **second stage**, where I have to conduct indepth reserach on my topic. Since I choose to make my project about the government my research has to be about _technology in the government_. Though I have not done much research as of yet, some of the information that I already know is technologies that are currently being used in the government. Such as 
 
 [Next](entry02.md)
 
