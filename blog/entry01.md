@@ -36,6 +36,9 @@ While I was researching different technologies in each profession, I could not f
 #### How to Read 
 While researching what topic I wanted to do, I dreaded the fact that I had to read multiple articles. That is when I found out that I didn't need to read the full article, instead, it would be easier if I **skimmed** through them instead. Though I could have been at risk of missing key information, I learned that the easiest way to find important information in the text is by searching for a word or phrase within it. You can do this by pressing **CTRL + f** causing a little search box to pop up allowing you to search within the task. Learning this skill made my time researching much more efficient. 
 
+## Summary 
+In the end, I am extremely excited to officially start my project, and see where it would take me. I believe that if I put enough effort into this project it will benefit me in the future, which is exactly what I plan to do. I am also looking forward to whether or not this project will help lead me to go for a career in the government or elsewhere. 
+
 [Next](entry02.md)
 
 [Home](../README.md)
