@@ -1,4 +1,4 @@
-# Entry 2: Researching about Software and Hardware 
+# Entry 2: Researching about Softwares and Hardwares 
 ##### 11.04.2024
 
 ## Narrowing Down my Topic 
