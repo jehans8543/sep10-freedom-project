@@ -23,6 +23,17 @@ When I searched this up I was first taken to a university website of political a
 #### Search: "Court Apps"
 While I was thinking about what is the next key word to serach up, I realized that I wanted my reserach to stick with a theme. That is having government topics that relate to law in general. Allowoing me to conclude with the key word _court_ which the government has a huge involvement in. 
 
+The first search result that popped up was an app from the Google Play Store 
+
+* The app is called [eCourt Services](
+  * Provides information about cases filed in subordinate courts and high class courts all throughout the country
+    * Can configure which one you are interested in seeing and knowing about.
+  * Made for the assistance Citizen, Litigants, Lawyers, Police, Government Agencies and other Institutional Litigants
+  * Only available for android.
+
+#### Search: "Democratic Government Apps"
+
+ 
 
 
 
