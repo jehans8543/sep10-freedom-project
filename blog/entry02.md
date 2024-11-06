@@ -32,6 +32,20 @@ The first search result that popped up was an app from the Google Play Store
   * Only available for android.
 
 #### Search: "Democratic Government Apps"
+When I was thinking of the key words for my next search, I thought of the upcominng government elections. And all of a sudden I thought of a the word **_Democratic_** which does connect to our government and how it functions. 
+
+One of the first search results was from [Apple](https://www.apple.com/) itself, though more specifically it led to a page of the Apple app store. 
+
+The app that I found was called [POLITICO](https://apps.apple.com/us/app/politico/id358305912)
+
+* Up to date with the latest political news
+  * News about the United States government such as the presidential election, and our presidents in general
+* Allows news to be accessible to everyone, allowing people to be aware of our country’s political state
+* Has information about the political news of certain states
+* Available for iPhone and iPad
+* If you log into your account for the app, it’s easy to save any article that you want
+
+### Hardwares 
 
  
 
