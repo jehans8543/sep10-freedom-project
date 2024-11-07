@@ -46,7 +46,9 @@ The app that I found was called [POLITICO](https://apps.apple.com/us/app/politic
 * If you log into your account for the app, it’s easy to save any article that you want
 
 ### Hardwares 
+After reserarching about **_Softwares_** you would think it would be easier to find hardwares, since I now have experience searching for these types of topics using key words. But instead it was the **opposite**. No matter how many keywords that I used in my seraches I still could not find any hardwares that would relate to my topic. 
 
+I was only able to get past my challenge because of Mr.Mueller's help. He told me that I could use _AI_ in order to find more information. I was a bit skeptical at first, since I was always told to never use AI in school. It's even blocked on the schools's wifi. Though Mr.Mueller told me that it's okay to use AI in certaion scenarios, especially in this one since it will help push my thinking, and get more specific searches. 
  
 
 
