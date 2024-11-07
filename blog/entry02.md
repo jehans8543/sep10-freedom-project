@@ -52,6 +52,19 @@ I was only able to get past my challenge because of Mr.Mueller's help. He told m
 
 #### Search: “Communication infrastructure that is used in the government”
 When I serached up "hardwares in the government" using _ChatGPT_, it told me about infrastructures in the government. And though it did not really connect to the theme that I was going with, I still thought it would be fun to do some reserach on it. 
+
+The website that I found was called: [Critical Infrastructure Sectors](https://www.cisa.gov/topics/critical-infrastructure-security-and-resilience/critical-infrastructure-sectors/communications-sector)
+
+* Energy Sector
+  * Gives power for cellular towers to run central offices, and other critical communications facilities and also relies on communications to aid in monitoring and controlling the delivery of electricity.
+  * Allows us to have a stable energy supply, which allows our health and welfare to not be threatened.
+  * Requires different plans, risk management frameworks. 
+  * ![image](https://theonebrief.com/wp-content/uploads/2020/09/renewable-energy-banner-2.jpg)
+* Information Technology Sector
+  * Central to national security, economy, public health, and etc.
+  * Produces and provides hardware, software, and information technology systems and services.
+  * ![image2](https://static.wixstatic.com/media/cd064a_85f455fbec9d4f7aacd1f0c07db3c356~mv2.jpg/v1/fill/w_560,h_268,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/cd064a_85f455fbec9d4f7aacd1f0c07db3c356~mv2.jpg)
+
  
 
 
