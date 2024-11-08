@@ -64,6 +64,11 @@ The website that I found was called: [Critical Infrastructure Sectors](https://w
   * Central to national security, economy, public health, and etc.
   * Produces and provides hardware, software, and information technology systems and services.
   * ![image2](https://static.wixstatic.com/media/cd064a_85f455fbec9d4f7aacd1f0c07db3c356~mv2.jpg/v1/fill/w_560,h_268,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/cd064a_85f455fbec9d4f7aacd1f0c07db3c356~mv2.jpg)
+ 
+#### Search: "Security Systems in the Government" 
+After seraching for **_infrastructure hardwares_** in the government, I decided it will make sense to stick with a theme when it came to my hardwares. _ChatGPT_ told me that another topic I could search up is _Security Systems_, and I thought that in order for infrastructure to happen you would need a proper security system. Allowing me to use seccurity systems to be one of the topics that I reserach about. 
+
+The website that I found is ["Office of Security](https://www.commerce.gov/osy/programs/physical-security/electronic-security-systems#:~:text=Physical%20Access%20Control%20Systems%20PACS)
 
  
 
