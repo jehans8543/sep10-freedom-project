@@ -73,14 +73,14 @@ The website that I found is ["Office of Security"](https://www.commerce.gov/osy/
 * Physical Access Control Systems (PACS)
   * Enterprise intelligence systems of hardware and software deployed to control accesses through perimeter entries, internal control points, and protected spaces
   * include, but are not limited to, Personal Identity Verification card readers, door controllers, turnstiles, request to exit devices, door position switches/sensors, electric door strikes, Fiber Optic cabling infrastructure, middleware, switches, and servers.
-  * [Image3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIfjQey1SVLu7RCf1WDynb4_sy6ejCuL_iQ&s)
+  * ![Image3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIfjQey1SVLu7RCf1WDynb4_sy6ejCuL_iQ&s)
 * Video Surveillance Systems (VSS)
   * deployed to surveil required points of facilities according to ISC standards and/or as designated by the security organization
-  * [image4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhi69niyzSAjD-L6hYlodo5TR8uchgu5sYA&s)
+  * ![image4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhi69niyzSAjD-L6hYlodo5TR8uchgu5sYA&s)
 * Intrusion Detection Systems (IDS)
   * programmed to detect intrusion into certain protected spaces, such as facility perimeter spaces (perimeter access locations like doors, windows, roof hatches, etc.)
   *  IDS communicate alarms to monitoring stations to signal for the appropriate response to the alarmed location.
-  *  [image5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTlzGodnzqQmi-26XECy5o5iHvbyYDYJcIQ&s) 
+  *  ![image5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTlzGodnzqQmi-26XECy5o5iHvbyYDYJcIQ&s) 
 
  
 
