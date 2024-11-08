@@ -82,10 +82,6 @@ The website that I found is ["Office of Security"](https://www.commerce.gov/osy/
   *  IDS communicate alarms to monitoring stations to signal for the appropriate response to the alarmed location.
   *  ![image5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTlzGodnzqQmi-26XECy5o5iHvbyYDYJcIQ&s) 
 
- 
-
-
-
 
 [Previous](entry01.md) | [Next](entry03.md)
 
