@@ -68,7 +68,19 @@ The website that I found was called: [Critical Infrastructure Sectors](https://w
 #### Search: "Security Systems in the Government" 
 After seraching for **_infrastructure hardwares_** in the government, I decided it will make sense to stick with a theme when it came to my hardwares. _ChatGPT_ told me that another topic I could search up is _Security Systems_, and I thought that in order for infrastructure to happen you would need a proper security system. Allowing me to use seccurity systems to be one of the topics that I reserach about. 
 
-The website that I found is ["Office of Security](https://www.commerce.gov/osy/programs/physical-security/electronic-security-systems#:~:text=Physical%20Access%20Control%20Systems%20PACS)
+The website that I found is ["Office of Security"](https://www.commerce.gov/osy/programs/physical-security/electronic-security-systems#:~:text=Physical%20Access%20Control%20Systems%20PACS)
+
+* Physical Access Control Systems (PACS)
+  * Enterprise intelligence systems of hardware and software deployed to control accesses through perimeter entries, internal control points, and protected spaces
+  * include, but are not limited to, Personal Identity Verification card readers, door controllers, turnstiles, request to exit devices, door position switches/sensors, electric door strikes, Fiber Optic cabling infrastructure, middleware, switches, and servers.
+  * [Image3](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHIfjQey1SVLu7RCf1WDynb4_sy6ejCuL_iQ&s)
+* Video Surveillance Systems (VSS)
+  * deployed to surveil required points of facilities according to ISC standards and/or as designated by the security organization
+  * [image4](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxhi69niyzSAjD-L6hYlodo5TR8uchgu5sYA&s)
+* Intrusion Detection Systems (IDS)
+  * programmed to detect intrusion into certain protected spaces, such as facility perimeter spaces (perimeter access locations like doors, windows, roof hatches, etc.)
+  *  IDS communicate alarms to monitoring stations to signal for the appropriate response to the alarmed location.
+  *  [image5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTlzGodnzqQmi-26XECy5o5iHvbyYDYJcIQ&s) 
 
  
 
