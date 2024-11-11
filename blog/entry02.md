@@ -83,7 +83,9 @@ The website that I found is ["Office of Security"](https://www.commerce.gov/osy/
   *  ![image5](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoTlzGodnzqQmi-26XECy5o5iHvbyYDYJcIQ&s)
 
  ## Engineering Design Process
+I am currently on the **second stage** of the engeneering design process, where I am trying to reserach the problem that is connected to my topic. What I mean by this is that I have to find what sorts of technologies, whether it be hardwares and softwares that are used in the government. As I mentioned this earlier, getting past this stage was difficult for me to do, because of the broadness of my topic. Though I was able to get past this because of the advice of what Mr.Mueller told me about using _ChatGPT_. 
 
+I don't believe that I am fully done with the second stage of the egeneering design process because I still haven't found the problem that I am dealing with. Sure I may have found a lot of information on the softwares and hardwares that are used in the government, but I haven't found any issues related to it thus far. Therefore I would have to narrow my topic down even further then I already did, in order to find some visible issues that can be found in the governmnet, which is what I believe my **_next steps_** are for the engeneering design process. 
 
 
 [Previous](entry01.md) | [Next](entry03.md)
