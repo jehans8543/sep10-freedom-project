@@ -25,7 +25,7 @@ While I was thinking about what is the next key word to serach up, I realized th
 
 The first search result that popped up was an app from the Google Play Store 
 
-* The app is called [eCourt Services](
+* The app is called [eCourt Services](https://play.google.com/store/apps/details?id=in.gov.ecourts.eCourtsServices&hl=en_US)
   * Provides information about cases filed in subordinate courts and high class courts all throughout the country
     * Can configure which one you are interested in seeing and knowing about.
   * Made for the assistance Citizen, Litigants, Lawyers, Police, Government Agencies and other Institutional Litigants
