@@ -87,10 +87,13 @@ I am currently on the **second stage** of the engeneering design process, where 
 
 I don't believe that I am fully done with the second stage of the egeneering design process because I still haven't found the problem that I am dealing with. Sure I may have found a lot of information on the softwares and hardwares that are used in the government, but I haven't found any issues related to it thus far. Therefore I would have to narrow my topic down even further then I already did, in order to find some visible issues that can be found in the governmnet, which is what I believe my **_next steps_** are for the engeneering design process. 
 
-## Skils 
+## Skills 
 
 #### How to Research 
 As I mentioned earlier, I struggled a lot when it came to reseraching about my topic, especially when it came to the hardwares that I had to reserach about. Even when using keywords and quotation marks in my google searches, I still could not find anything that would conenct to my topic. By this point I was beyond frustrated, even contemplating on changing my topic. That is until I asked Mr.Mueller for help, and he told me to use _ChatGPT_ as an resource when it comes to reseraching. At first I was hesitant, since I was always told **_not to use AI_** in school, but I was told it was okay when it comes to the small stuff such as research. I learned that if you just search up what it is your looking for, you can find narrowed down answers. For example, when I serarched "hardwares in the government" I found answers such as _infrastructure hardwares in the government_ and after finding that answer I would serach up in google, and I would find more specific serach results. 
+
+#### How to Make Connections 
+While researching, I need all my research to be structured, rather it being about information that is completely different from each other. Since if I kept on researching on topics that are different form each other, it would make it harder for me in the furture to conenct them into one whole project. I was able to learn how to make connections, by looking at the keywords that I used before seraching something up, and thinking about a **common theme and ideas** between the two. For example the two keywords court and political are both related because they are both under the topic of government, and they both share the ideas of _checks and balances_ which both provides checks in political power in a democratic system, which is where my other key word _democratic_ comes in. Which shows how making connections make my reserach process and the overall process easier in whole. 
 
 
 [Previous](entry01.md) | [Next](entry03.md)
