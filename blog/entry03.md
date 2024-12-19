@@ -72,7 +72,9 @@ I struggled a lot to think of innovations that would connect to my topic, and in
 ## Engineering Design Process 
 So far in the I officially finished up the research portion of part A in the EDP, and now I am **_offically starting_** part B where I would have to look ahead and think of the future. When I say think of the future, I would have to think of innovations that could be created in the furutre that could solve the problems that are currently seen in my topic. Starting part B, as I have mentioned earlier, was quite difficult for me because most of part B required creativity, which is something that I myself don't have much of. In order for me to overcome this challenge, I had to do a lot of reseraching, and taking the time to further go in depth and understand my topic. 
 
-In order for me to fully get past Part B, I believe I would have to do further in depth reserach of the inventions that I came up with. That way I would be able to get an idea of how the prototype hardware version and software version of my innovation looked like if it were to become an acutal invention. 
+In order for me to fully get past Part B, I believe I would have to do further in depth reserach of the inventions that I came up with. That way I would be able to get an idea of how the prototype hardware version and software version of my innovation looked like if it were to become an acutal invention. Therefore I believe in order to get past part B my **_next steps_** are to think of how a prototype for this invention would look like. 
+
+## Skills
 
 
 
