@@ -44,7 +44,7 @@ The reason why I choose to name this group _security hardwares_ is because they 
 #### Overall Synthesization 
 When it comes to synthesizing my information I learned how much easier it makes the whole process be. Being able to categorize my information, made it so much more easier for me to think of what I am going to say when it comes to the later on planning of the HTML on my website. 
 
-## Part B 
+## Part B (Thinking of Innovations) 
 
 
 
