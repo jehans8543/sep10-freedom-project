@@ -77,7 +77,10 @@ In order for me to fully get past Part B, I believe I would have to do further i
 ## Skills
 
 ### Organization 
-One of the most crucial skills that I learned during my time of synthesing is being able to organize. Since when it means to synthesize something it means to make or combine two or more things. And you might be wondering how this might to relate to organizaiton, since when you are synthesizing you are organizing information that is similar to one another. 
+One of the most crucial skills that I learned during my time of synthesing is being able to organize. Since when it means to synthesize something it means to make or combine two or more things. And you might be wondering how this might to relate to organizaiton, since when you are synthesizing you are organizing information that is **similar** to one another. For example, when I had to synthesize the hardware section of my reserach, I realized that all my reserach related to security, whether it be social secury or other types of security. One way or another all my information connected to security, and I was able to organize it into one group, therefore being able to synthesize it. 
+
+### Comprehension 
+Even though this is not english class, one of the main skills that I learned during this part of my journey is to _learn how to comprehend_. Meaning learning how to comprehend the information that you take in, and being able to make your own ideas and inferences from it. While I was reseraching on what sort of innovation I should create. I had to read articles talking about different problems that we have in the government, from those articles I had to **comprehend** the problems that are current. And after comprehending those current problems I had to make ideas and inferences on what sort of innovations that I could be able to create that can solve the problem that I curently have on my hands. 
 
 
 
