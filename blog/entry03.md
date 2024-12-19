@@ -76,6 +76,9 @@ In order for me to fully get past Part B, I believe I would have to do further i
 
 ## Skills
 
+### Organization 
+One of the most crucial skills that I learned during my time of synthesing is being able to organize. Since when it means to synthesize something it means to make or combine two or more things. And you might be wondering how this might to relate to organizaiton, since when you are synthesizing you are organizing information that is similar to one another. 
+
 
 
 
