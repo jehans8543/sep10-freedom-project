@@ -70,7 +70,7 @@ After finishing part A, we were ready to move onto part B, which was _thinking o
 I struggled a lot to think of innovations that would connect to my topic, and in order to come up with this soild list of inventions, I had to do a lot of reserach for problems that already exist in the government. I also had to find different types of technologies that did not exist yet, or were similar to the one I thought of so I would not interlap with anything that is already exisiting. If anything I beleive the hardest part of this whole journey thus far was thinking of inventions. 
 
 ## Engineering Design Process 
-So far in the I officially finished up the research portion of part A in the EDP, and now I am offically starting part B where I would have to look ahead and think of the future. When I say think of the future, I would have to think of innovations that could be created in the furutre that could solve the problems that are currently seen in my topic. 
+So far in the I officially finished up the research portion of part A in the EDP, and now I am **_offically starting_** part B where I would have to look ahead and think of the future. When I say think of the future, I would have to think of innovations that could be created in the furutre that could solve the problems that are currently seen in my topic. Starting part B, as I have mentioned earlier, was quite difficult for me because most of part B required creativity, which is something that I myself don't have much of. In order for me to overcome this challenge, I had to do a lot of reseraching, and taking the time to further go in depth and understand my topic. 
 
 
 
