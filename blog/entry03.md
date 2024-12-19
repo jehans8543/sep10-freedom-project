@@ -2,7 +2,52 @@
 ##### 12.18.2024
 
 ## Synthesizing My Research 
-After reseraching for **softwares** and **hardwares** for my topic, I realized that I started to see a reoccuring pattern between the information that I have gathered. And for our 
+After reseraching for **softwares** and **hardwares** for my topic, I realized that I started to see a reoccuring pattern between the information that I have gathered. And for our next task for our freedom project we were told to synthesize all the information that we have. Meaning that we had to catoegorize our information into groups. We were told that it was okay for some of our reserach to go into more than one group, as long as it makes sense. 
+
+### Informative Softwares 
+The reason why I choose to name this group _informative softwares_ is because they are softwares that informs and updates citizens about what is happening within their government. 
+
+* The app that I found was called [POLITICO](https://apps.apple.com/us/app/politico/id358305912)
+  * Up to date with the latest political news
+    * News about the United States government such as the presidential election, and our presidents in general
+  * Allows news to be accessible to everyone, allowing people to be aware of our country’s political state
+  * Has information about the political news of certain states
+  * Available for iPhone and iPad
+  * If you log into your account for the app, it’s easy to save any article that you want
+* The app is called [The Washington Post](https://subscription.washingtonpost.com/mobile/)
+  * Recommended posts get personalized to your liking
+  * Able to use the app on apple or fire tv
+  * Requires a subscription for some of the news
+  * Audience of republican candidates
+  * News about our political situation and our overall government
+* The app is called [eCourt Services](https://play.google.com/store/apps/details?id=in.gov.ecourts.eCourtsServices&hl=en_US)
+  * Provides information about cases filed in subordinate courts and high class courts all throughout the country
+    * Can configure which one you are interested in seeing and knowing about.
+  * Made for the assistance Citizen, Litigants, Lawyers, Police, Government Agencies and other Institutional Litigants
+  * Only available for android.
+
+### Security Hardwares 
+The reason why I choose to name this group _security hardwares_ is because they are all hardwares that have something to do with sercurity. Since the government is considered to be a broad topic, putting all my hardwares into one group that connect to each other, will make it easier for me to make connections later in my project. 
+
+* Physical Access Control Systems (PACS)
+  * Enterprise intelligence systems of hardware and software deployed to control accesses through perimeter entries, internal control points, and protected spaces
+  * Include, but are not limited to, Personal Identity Verification card readers, door controllers, turnstiles, request to exit devices, door position switches/sensors, electric door strikes, Fiber Optic cabling infrastructure, middleware, switches, and servers.
+* Video Surveillance Systems (VSS)
+  *  deployed to surveil required points of facilities according to ISC standards and/or as designated by the security organization
+* Intrusion Detection Systems (IDS)
+  *  programmed to detect intrusion into certain protected spaces, such as facility perimeter spaces (perimeter access locations like doors, windows, roof hatches, etc.)
+  *   IDS communicate alarms to monitoring stations to signal for the appropriate response to the alarmed location.
+* Information Technology Sector
+  *  Central to national security, economy, public health, and etc.
+  *  Produces and provides hardware, software, and information technology systems and services.
+
+#### Overall Synthesization 
+When it comes to synthesizing my information I learned how much easier it makes the whole process be. Being able to categorize my information, made it so much more easier for me to think of what I am going to say when it comes to the later on planning of the HTML on my website. 
+
+## Part B 
+
+
+
 
 
 [Previous](entry02.md) | [Next](entry04.md)
