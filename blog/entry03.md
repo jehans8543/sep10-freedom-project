@@ -45,6 +45,29 @@ The reason why I choose to name this group _security hardwares_ is because they 
 When it comes to synthesizing my information I learned how much easier it makes the whole process be. Being able to categorize my information, made it so much more easier for me to think of what I am going to say when it comes to the later on planning of the HTML on my website. 
 
 ## Part B (Thinking of Innovations) 
+After finishing part A, we were ready to move onto part B, which was _thinking of innovations_. Though these innovations, had to be new with the purpose to solve the problems related to your topic. Since my topic is government, which is quite broad, I was able to think of multiple innovations targetting different types of problemes centered around my topic. 
+
+### Corruption Monitoring System 
+* Using AI to analyze financial transactions, looking for patterns to detect if any fraud is happening
+* Public dashboards showing how tax dollars are spent
+* Financial systems to track all public spending transparently in real time.
+  
+### National cybersecurity neural network 
+* Self-learning neural network that detects and neutralizes cyberattacks in real time
+* Coordination for public and private networks for seamless cybersecurity defense
+* Automated stress tests for critical government systems
+
+### Decentralized digital identifying system
+* Unified access to healthcare, voting, and tax services through this id
+* Integration with global standards for international travel and global security
+* Block-chained based digital id that securely stores personal data, only accessible with citizen consent
+
+### AI-Powered Education Reform System 
+* Adaptive learning platforms tailored to a students needs
+* AI systems to monitor and improve teacher performance
+* Real-time dashboards for governments to assess educational outcomes and allocate resources
+
+I struggled a lot to think of innovations that would connect to my topic, and in order to come up with this soild list of inventions, I had to do a lot of reserach for problems that already exist in the government. I also had to find different types of technologies that did not exist yet, or were similar to the one I thought of so I would not interlap with anything that is already exisiting. If anything I beleive the hardest part of this whole journey thus far was thinking of inventions. 
 
 
 
