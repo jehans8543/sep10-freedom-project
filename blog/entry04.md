@@ -47,7 +47,18 @@ After learning more about `@keyframes` I was able to tinker with it on JSBIN usi
     border-radius: 5px;
   }
 ```
-This code would then make my text bounce up for a duriation of 2 seconds, as I have stated in the @keyframes. 
+This code would then make my text bounce up for a duriation of 2 seconds, as I have stated in the @keyframes. The animation that I have used in my code is exclusive to the tool that I used, Animate.CSS. 
+
+## Skills 
+
+### Problem Solving 
+A skill that I was able to learn is problem solving, one of the challenges that I encournted on my tinkering process is getting the animation to work, and trying to figure out how it is connected to @keyframes. I kept on struggling and struggling, and was even tempting to give up, untill I went back to the Free Code Camp lesson. After reviewing the lesson that I did I was able to make the connection between @keyframes and Animate.CSS, and I figured out that `animation-duriation` is what connects @keyframes and Animate.CSS together. I was able to learn that problem solving comes with a process with testing it out, finding the mistake, reviewing it, and finally look for a solution. 
+
+### Attention to Detail 
+I was able to learn this skill through minor mistakes that I would make throughout my code. Often times my code would not work, despite me seemingly doing everything right. Though the more I look over it I would realize that I would make the smallest mistakes, such as spelling class names wrong. Making such small errors like this can change the whole course of your code, making you have to restart. That's why I learned to always look over every tiny little detail of my code before I confirm it. Without double checking, it can cost you the whole thing. That's why paying attention to detail is a crucial skill I learned in throughout this process. 
+
+## Summary 
+
 
 
 
