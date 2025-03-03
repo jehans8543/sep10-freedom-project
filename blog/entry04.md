@@ -58,7 +58,7 @@ A skill that I was able to learn is problem solving, one of the challenges that 
 I was able to learn this skill through minor mistakes that I would make throughout my code. Often times my code would not work, despite me seemingly doing everything right. Though the more I look over it I would realize that I would make the smallest mistakes, such as spelling class names wrong. Making such small errors like this can change the whole course of your code, making you have to restart. That's why I learned to always look over every tiny little detail of my code before I confirm it. Without double checking, it can cost you the whole thing. That's why paying attention to detail is a crucial skill I learned in throughout this process. 
 
 ## Summary 
-
+Through learning how to use my tool I was able to **try** out new animation styles that I never saw before, only because I used the tool Animate.CSS. Something I was able to **change** is the starter code that I found on the Animate.CSS website, and input it into my own code. And in the end I was able to **make** my own animation that using what I learned about @keyframes and Animate.CSS. 
 
 
 
