@@ -15,6 +15,41 @@ The tool that I ended up choosing was called _Animate.CSS_ which was one of the 
   />
 </head>
 ```
+### Tinkering 
+When it came to tinkering with Animate.CSS the main resources that I used to learn more about it is [Free Code Camp](https://www.freecodecamp.org/) to learn more about the concepts of the code, and [JSBIN](https://jsbin.com/?html,output) to actually tinker with the code. 
+
+#### @Keyframes 
+Animate.CSS comes with different animations to animate your text or elements with, but you would have to use **_@keyframes_** in order to directly use the provided animations. Though my problem was that I did not know how to use nor what was @keyframes to begin with. In order to learn more about it I went to _Free Code Camp_ :
+![keyframes](https://github.com/user-attachments/assets/5c69750b-3334-4e11-89b2-2724be3f6c81)
+Through this Free Code Camp lesson I was able to learn that @keyframes is use for control what happens during the animation. 
+* `animation-name`- sets the name of the animation
+* `animation-duriation` - sets the length of time for the animation
+* Percentages such as 0% - 100% is used to sepcify excatly what happens to the animation during the duriation
+  * 0% - element during opening scene
+  * 100% - element during ending scene
+
+After learning more about `@keyframes` I was able to tinker with it on JSBIN using it with Animation.CSS. While tinkering I learned that I did not have to directly use @keyframes, though I was able to use the properties of keyframes in order to make the animation appear. The animation that I decided to test it out is the `bounce` animation. 
+
+```CSS
+.animate__animated animate__bounce {
+   display: inline-block;
+  margin: 0 0.5rem;
+  
+  animation: bounce;
+   animation-duration: 2s;
+}
+
+ div {
+    height: 40px;
+    width: 70%;
+    background: lightblue;
+    margin: 50px auto;
+    border-radius: 5px;
+  }
+```
+This code would then make my text bounce up for a duriation of 2 seconds, as I have stated in the @keyframes. 
+
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
