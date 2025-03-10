@@ -10,7 +10,7 @@
   * installed animate.css
 * I visited the [Animate.CSS](https://animate.style/) website
   * Read the section about **Delay classes**
-    * type of class 
+    * type of class
     * different types of delay speeds, applicable with any animation
       * `animate__delay-2s	2s`
 * Practice.html
@@ -22,11 +22,11 @@
     * [Learn CSS Animations in 9 Minutes](https://www.youtube.com/watch?v=z2LQYsZhsFw&ab_channel=Coding2GO)
     * [CSS Animation 28 - animation delay](https://www.youtube.com/watch?v=8RrTJY_z36c&ab_channel=VirtualAddiction)
 
-### X/X/XX:
-* Text
+### 03/10/2025:
+* 
 
 
-<!-- 
+<!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
 * Challenges, a-ha moments, etc
