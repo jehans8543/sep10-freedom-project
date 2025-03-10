@@ -23,7 +23,9 @@
     * [CSS Animation 28 - animation delay](https://www.youtube.com/watch?v=8RrTJY_z36c&ab_channel=VirtualAddiction)
 
 ### 03/10/2025:
-* 
+* [Learn CSS Animations in 9 Minutes](https://www.youtube.com/watch?v=z2LQYsZhsFw&ab_channel=Coding2GO)
+  * 
+
 
 
 <!--
