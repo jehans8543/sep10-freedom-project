@@ -22,9 +22,26 @@
     * [Learn CSS Animations in 9 Minutes](https://www.youtube.com/watch?v=z2LQYsZhsFw&ab_channel=Coding2GO)
     * [CSS Animation 28 - animation delay](https://www.youtube.com/watch?v=8RrTJY_z36c&ab_channel=VirtualAddiction)
 
-### 03/10/2025:
+### 03/16/2025:
 * [Learn CSS Animations in 9 Minutes](https://www.youtube.com/watch?v=z2LQYsZhsFw&ab_channel=Coding2GO)
-  * 
+  * when your changes contains more than one step then you need to use animation
+  * `@keyframes`
+   * Assigns animation rule to an element
+   * then give animation an name 
+  * Sequence of animation used with percentages
+    * 0% - begining, 100% - end
+  * You need to be specific when to animate what CSS property
+  * `animation-timing-function`
+    * Makes the timing of an animation more specific
+  * Linear - consistent speed
+  * Ease - smoother speed
+* [CSS Animation 28 - animation delay](https://www.youtube.com/watch?v=8RrTJY_z36c&ab_channel=VirtualAddiction)
+  *  Defines when an animation will start
+  * Begins execution sometime after it is applied
+  * The numeric value represents an offset, defines how long of an delay there is going to be
+* Next Steps:
+  * Taking what I learned and incoorprating it into my code
+  * Conencting the animations I learned from the videos with _Animate.CSS_  
 
 
 
