@@ -41,7 +41,26 @@
   * The numeric value represents an offset, defines how long of an delay there is going to be
 * Next Steps:
   * Taking what I learned and incoorprating it into my code
-  * Conencting the animations I learned from the videos with _Animate.CSS_  
+  * Conencting the animations I learned from the videos with _Animate.CSS_
+
+ ### 03/23/2025:
+* I wanted to find a new way to learn how to use animate.css
+  * I choose to try out how AI will explain it to me, specifically _ChatGPT_
+    * **I only planned to use ChatGPT to see how they _explained_ it, I do not plan on plaragrizing the code from their examples**
+* ChatGPT:
+  * I learned that by default all animations last by 1 second
+    * change this by using `animation-duriation`
+      * Do this in style.css or as a inline code
+  * Trigger animations when an element enters the viewport using JavaScript
+    * **I decided to come back to learning about this later when I understand the basics of my tool more**
+  * You can loop animations using `animate_infinite`
+  * Javascript
+    * apply animations via javacript
+    * remove animations after completeion using javascript
+* In JSBIN I tested out some of the animations on the offical animate.css documentation
+* Next Steps:
+  * Trying to further develop my tinkering
+  * learn more about how Javascript works if I have time 
 
 
 
