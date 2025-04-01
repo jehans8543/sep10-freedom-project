@@ -60,8 +60,26 @@
 * In JSBIN I tested out some of the animations on the offical animate.css documentation
 * Next Steps:
   * Trying to further develop my tinkering
-  * learn more about how Javascript works if I have time 
+  * learn more about how Javascript works if I have time
+ 
+### 03/31/2025
+* Made a basic website on my IDE to tinker animations with
+  *  Made with HTML, Bootstrap, CSS, and Animate.CSS
+* Tinkering:
+  * I tested to see if animating code that is within a `container-fluid` would work
+    * Doesn't work
+    * changes the bootstrap; causing it to not even be there anymore
+  * I tried adding the animations within the `<h2>` but in the end it made my pargraph to become the headings and just caused a lot of errors in general
+  * Decorating and exploring differet animations to my website
+  * Tried incoorporating the animations with bootstrap componets
+    * Searched up on ChatGPT if it was possible to mix bootstrap components with animate.css
+    * ![boot-animate](https://github.com/user-attachments/assets/4839a3f0-7dd9-4011-a06e-89bf4bc6957d)
 
+* Troubleshooting:
+  * animate.css + bootstrap
+    * I found out that the aniamtion is only not working with one of my `<h2>`
+      * After further eximanation I found out that I made a small spelling error in my animation code
+   
 
 
 <!--
