@@ -74,7 +74,19 @@
   * Tried incoorporating the animations with bootstrap componets
     * Searched up on ChatGPT if it was possible to mix bootstrap components with animate.css
     * ![boot-animate](https://github.com/user-attachments/assets/4839a3f0-7dd9-4011-a06e-89bf4bc6957d)
-
+    * After finding out that it was possible to animate boostrap components I got to adding them immediately
+  * I added a card component and animated it to fade in and it worked!
+* Videos:
+  * I wanted to watch a video on how to aniamte using javascript
+    * [How to animate CSS dynamically in JavaScript](https://youtu.be/GMTb1q4T1MY?si=x0BxjlblqVSkCb82)
+      * To make an object move you would have to create a new element
+       * Use `querey.selector`
+      * add a class, not keyframes
+      * specify duration with `animation-duriation`
+      * you use the class you made earlier as your keyframe and make the same class name as your `animation-name`
+      * every time you refresh the browser the keyframes should play
+      * Using the from and to keyframe commands you can further complex your animations
+        * you can use any css property during this part of the aniamtion
 * Troubleshooting:
   * animate.css + bootstrap
     * I found out that the aniamtion is only not working with one of my `<h2>`
