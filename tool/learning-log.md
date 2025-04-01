@@ -91,6 +91,10 @@
   * animate.css + bootstrap
     * I found out that the aniamtion is only not working with one of my `<h2>`
       * After further eximanation I found out that I made a small spelling error in my animation code
+* Next steps:
+  * Further develop my tinkering site with more animations that make it look nice
+  * try incoorporating javascripit + reseraching more about it
+  * Further develop my knowledge on basic animating css
    
 
 
