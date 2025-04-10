@@ -95,7 +95,34 @@
   * Further develop my tinkering site with more animations that make it look nice
   * try incoorporating javascripit + reseraching more about it
   * Further develop my knowledge on basic animating css
-   
+
+### 04/06/2025
+* Today I decided to do some basic animations on jsbin to jog my memory:
+``` CSS
+.animate__animated.animate__bounce {
+  --animate-duration: 4s;
+}
+
+:root {
+--animate-duration: 200ms;
+  --animate-delay: 0.6s;
+}
+```
+* Today I decided to keep it simple and choose to ask chatGPT some questions and look at their example code for animate.css
+![animate css-chat](https://github.com/user-attachments/assets/f3cf471a-ad2d-4863-9ae8-7b6cee6e359f)
+  * From asking chatGPT I was able to learn that in order to properly use media queries in aimate.css they are dependant on removing or adding classes, unlike without it
+  * In order to make your animations more responsive you can use libraries such as AOS or IntersectionObserver API with Animate.css for more nuanced control over the responsiveness
+* [AOS](https://michalsnik.github.io/aos/)
+  * provides more smoother transitions, along with responsiveness
+  ``` CSS
+  <div data-aos="flip-right"></div>
+  ```
+    * This piece of code makes the element flip to the right, hence the name
+
+ Next Steps: 
+ * Add AOS to my tinkering and learn more about
+ * Possibly research more about IntersectionObserver API 
+
 
 
 <!--
