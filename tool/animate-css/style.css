@@ -1,1 +1,43 @@
+.animate__animated.animate__jello {
+    --animate-duration: 3s;
+  }
 
+html, body {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: linear-gradient(45deg, #d8f3dc, #b7e4c7, #95d5b2, #74c69d, #52b788);
+    background-size: 600% 600%;
+    animation: gradientAnimation 15s ease infinite;
+    align-items: center;
+    color: #1b4a28;
+}
+
+.content {
+    z-index: 1;
+}
+
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.alert {
+    width: 40%;
+}
+
+
+
+
+
+/*#d8f3dc, #b7e4c7, #95d5b2, #74c69d, #52b788*/
