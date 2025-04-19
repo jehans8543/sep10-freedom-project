@@ -114,7 +114,7 @@ Somwhere throughout my tinkering and me asking ChatGPT questions, I ended up lea
 One of the key aspects of learning is being able to ask question. Though this is a skill that I utilized before, I now realized the full necesity of it while trying to learn my tool. While reseraching I went through the struggle of finding limited resources that explains or goes over my tool. And the limited resources that I did have left me with unanswered questions. Thankfully, I was able to get many of my questions answers by asking ChatGPT. An AI chat bot that is programed to answer questions like such. Being able to find answers to my question not only improved my knowledge on my tool, it also allowed me to become a stronger coder, further allowing me to have a well developed project. 
 
 ### Critical Thinking 
-
+While learning more about my tool, I was able to further develop my critical thinking skills. I was able to do this by piecing together the pieces of information that I gathered. For example, such as learning more about `@keyframes`. After learning more about `@keyframes` I was then able to learn more about `animation-iteration-count`, `animation-name`, `animation-duriation`, `animation-timing`, and etc. I was slowly able to piece together different types of code and their functions and put them together to the overall topics, which is animating using keyframes. 
 
 [Previous](entry04.md) | [Next](entry06.md)
 
