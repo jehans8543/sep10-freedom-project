@@ -72,7 +72,7 @@ While searching for information on how to use animate.css, I came across some yo
 
 For the most part I found watching youtube videos to be helpful, especially seeing how they would tinker their code and how I can incooporate that into my own. 
 
-#### ChatGPT 
+#### [ChatGPT](https://chatgpt.com/)
 Though using ChatGPT is not reccomended to use often times when it comes to coding, it can be helpful. ChatGPT is especially helpful when you need to ask questions, it is also a good source to find explanations to help develop your understanding on how to use your code. 
 
 While tinkering, I wanted to see if it was possible to mixed bootstrap elements and animate.css elements together, and it didn't work at first. In order to confirm this I then asked ChatGPT if this was true and it told me: 
