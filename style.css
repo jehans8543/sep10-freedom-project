@@ -1,5 +1,26 @@
 /* CSS code */
 
 #government {
+    background-image: url(../img/government.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position:center;
+    text-align: center;
+    padding-top: 500px;
+    padding-bottom:700px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.image-one {
+    border-radius: 8px;
+    width: 500px;
+    height: auto;
+}
+
+.title {
+    text-align: center;
+    position: sticky;
 
 }
