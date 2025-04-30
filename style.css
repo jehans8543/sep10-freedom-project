@@ -22,5 +22,12 @@
 .title {
     text-align: center;
     position: sticky;
+}
 
+.part-a {
+    align-content: center;
+}
+
+.context {
+    text-align: center;
 }
