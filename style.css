@@ -24,6 +24,12 @@
     height: auto;
 }
 
+.pacs {
+    border-radius: 8px;
+    width: 300px;
+    height: auto;
+}
+
 .title {
     text-align: center;
     position: sticky;
@@ -36,6 +42,8 @@
 .context {
     text-align: center;
 }
+
+
 
 .box {
     padding: 35px;
