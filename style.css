@@ -26,8 +26,9 @@
 
 .pacs {
     border-radius: 8px;
-    width: 300px;
+    width: 500px;
     height: auto;
+    text-align: center;
 }
 
 .title {
