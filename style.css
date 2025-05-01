@@ -1,7 +1,7 @@
 /* CSS code */
 
 #government {
-    background-image: url(../img/government.jpg);
+    background-image: linear-gradient( rgba(15, 63, 173, 0.3), rgba(0, 127, 218, 1)), url(../img/government.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position:center;
@@ -11,6 +11,11 @@
     max-width: 100%;
     height: auto;
     display: block;
+}
+
+.title-text {
+    text-align: center;
+
 }
 
 .image-one {
@@ -31,3 +36,11 @@
 .context {
     text-align: center;
 }
+
+.box {
+    padding: 35px;
+    margin: 70px;
+    background-color: #89c2d9;
+    border-radius: 10px;
+}
+
