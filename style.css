@@ -45,6 +45,12 @@
     text-align: center;
 }
 
+.open-gov {
+    border-radius: 5px;
+    width: 100px;
+    height: auto;
+}
+
 .title {
     text-align: center;
     position: sticky;
