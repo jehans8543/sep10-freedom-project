@@ -38,6 +38,13 @@
     text-align: center;
 }
 
+.ids {
+    border-radius: 8px;
+    width: 500px;
+    height: auto;
+    text-align: center;
+}
+
 .title {
     text-align: center;
     position: sticky;
