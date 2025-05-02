@@ -52,6 +52,10 @@
     text-align: center;
 }
 
+.fixed {
+    position: fixed;
+}
+
 .title {
     text-align: center;
     position: sticky;
