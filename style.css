@@ -74,8 +74,64 @@
     margin: 70px;
     background-color: #89c2d9;
     border-radius: 10px;
+    position: relative;
+    z-index: 1;
 }
+
+.box::before {
+    content: '';
+    position: absolute;
+    top: -6px;
+    left: -6px;
+    right: -6px;
+    bottom: -6px;
+    background: linear-gradient(
+      120deg,
+      #f9f8f8,
+      #cedae0,
+      #94bac2,
+      #639fad,
+      #2e809f,
+      #235c75,
+      #184560,
+      #235c75,
+      #2e809f,
+      #639fad,
+      #94bac2,
+      #cedae0,
+      #f9f8f8
+
+    );
+    background-size: 300% 300%;
+    border-radius: 20px;
+    z-index: -2;
+    animation: borderAnimation 5s linear infinite;
+  }
+  .box::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: #89c2d9;
+    border-radius: 12px;
+    z-index: -1;
+  }
+
+  @keyframes borderAnimation {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+
+
 
 .function {
     border-radius: 10px;
 }
+
+
