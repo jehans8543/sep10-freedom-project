@@ -35,15 +35,15 @@
 
 
 
-<!-- DO NOT USE THIS YET
+
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
-|   |   |
+|  Xin Yu | I really like how, each section with the title, it like have some kind of physics to it, like its jumping. And I think overall the website is very smooth espeically with the background of an government building  | I think there should be a diversity in text fonts
+| Ekrar  | I  think the different sections are really organized and neat. I also really like how the title for each section moves, I also really like the background image.  | I think you could improve on the mobile design for your website. When I change the window to be smaller the website doesn't fit. So it should be more responsive.
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 
--->
+
