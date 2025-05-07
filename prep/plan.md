@@ -25,8 +25,11 @@
 * Try animating the background using my tool
 * Fix all the spacing, trying to make it look perfect
 * Add links and a addictional information page
-* If possible link to another webpage, giving further in-depth explanations of every topic that I wrote about 
+* If possible link to another webpage, giving further in-depth explanations of every topic that I wrote about
 * Task
+* Add more animations using my tool
+* Add the shapes that I said I was going to add in my wireframe
+
 
 
 
