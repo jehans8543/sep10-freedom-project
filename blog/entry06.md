@@ -26,7 +26,86 @@ I realized that the mobile version of my website, the cards that I was going to 
 ![Wireframe-2-updated](../img/updated-wireframe-2.png)
 ![Wireframe-3-updated](../img/updated-wireframe-3.png)
 
-As you can see in my new updated wireframe, I fixed the mistakes and took in the feedback that I was given by Mr.Mueller. This time I changed my cards so that they stacked on top of each other, and 
-[Previous](entry05.md) | [Next](entry07.md)
+As you can see in my new updated wireframe, I fixed the mistakes and took in the feedback that I was given by Mr.Mueller. This time I changed my cards so that they stacked on top of each other, and I made some minor changes to make it look more organized when it's on a smaller viewport. 
 
+After I made the changes to the mobile version of my wireframe, I was finally approved to start coding my MVP
+
+### Coding the MVP:
+The thought of actually coding my MVP was a process I have been dreading since the begining of the year once I was infromed that we had to code our own site by scratch. But when I actually started coding, I found myself ot be quite into it, more than I expected. 
+
+#### Navbar:
+The first thing I decided to do is start on the basics such as getting the code for the components that I was going to use. The main ones that I was sure of using was a bootstrap navbar and cards. But since I wanted my navbar to be the first thing I saw in my code, it was the first piece of code that I imported to my site. 
+
+``` HTML
+<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+    <a class="navbar-brand" href="#government">Government</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+          <li class="nav-item active">
+            <a class="nav-link" href="#context">Context</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#softwares">Softwares</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#hardwares">Hardwares</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#innovations">Future Innovations</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+```
+At first when I created the navbar, it didn't have the code `fixed-top` but as I was previewing my website, I realized that if I had the navbar follow you no matter the scroll position, it would be more easier for the veiwer to switch to different sections instead of having ot scroll to each individual section. Which is why I included the `fixed-top`
+
+#### Bootstrap Grid System:
+When we first learned how to use the grid sytem in class, I was so confused. I even got a 6/10 on the bootstrap quiz that we took in class. Though if I wanted my website to be responsive, organized, and to look like how I envisioned it. I would have to learn how to use the grid system. 
+
+In order to learn how to use the grid system, I went to the offical [GetBootstrap](https://getbootstrap.com/docs/5.3/layout/columns/) website, and I went to the column section and I saw this section:
+
+![learn-to-use](https://github.com/user-attachments/assets/87c30fbe-b358-45a2-bf03-ae860ec576c1)'
+
+After seeing this example how to use it, everything came together. The only thing that I was able to understand about bootstrap is how to section them off such as `col-md-6`, but now I was able to know how they can appear properly on the screen. 
+
+After learning how to use the grid system, and columns, I used them for almost every aspect of website:  
+
+``` HTML
+<div class="box">
+  <div class="container text-align">
+    <div class="row">
+      <div class="col-md-6 image-one">
+      <img class="function" src="../img/function.jpg" alt="Government Bulidling Background Image" style="max-width: 100%; height: auto;">
+      </div>
+      <br>
+      <div class="col-md-6">
+        <h2 class="context animate__animated animate__heartBeat animate__infinite" id="context">Context</h2>
+        <p>What is the government? When you think about it may seem like an easy question to answer. Most typically saying, <em>“The government is a group of people who run the country”</em> or <em>“They make laws”</em>. All of these are simple, but yet factually correct answers. Most of them being universally correct answers. Though if you wanted to have a more complex answer, it would vary depending on the person and region. The reason for this being that there are different types of governments all around the world. Such as a democracy, in which the people have the power. There’s monarchies with their country being ruled by a king or queen. Then we have authoritarianism with the power being held by one person or a small group. We then have a republic, with the citizens having the ability to elect their representative. There’s also a theocracy, a nation being ruled by religious law. As you can see all these types of governments vary from one another to a different extent. Therefore, changing the perspective and belief of people who give an in-depth answer as to what the government is. Despite the differences, there is something that every government around the world can commonly agree on. They exist to create order, manage society, and maintain control—regardless of who’s in charge or how they got there. In order for them to achieve this they use technology such as <b>softwares</b> and <b>hardwares</b> to make that job more efficient for them.
+        </p>
+        </div>
+      </div>
+    </div>
+  </div>
+```
+#### Content:
+While coding my MVP, I decided that I will set up my basic layout, then I would add all my content which I reasearched towards the begining of the year. Since it was such a long time ago I didn't really remember what information I had, that is untill I was about to add it into my site. 
+
+When I was overlooking the content I was dissatisfied with the research that I found for the software section of my topic, since I found it unrealted the theme that I was going for. Therefore I researched the software section from scratch all over again.
+
+This time I decided to research softwares that are used in the government, to make it more easeir and accesible for them to use. This time since I had a narrowed down topic that I was looking for it made research more easier for me. 
+
+All I had to do was serach up "Softwares used in the government" and I found most of the sites immediately:
+
+![research](https://github.com/user-attachments/assets/c74cdd9e-f9f6-4add-ba35-0624b8806605)
+
+After doing a bit more seraching, I found the three sites that I was most satisfied with which are [OpenGov](https://opengov.com/), [Oracle](https://www.oracle.com/government/govcloud/), and [Accela](https://www.accela.com/press-releases/accela-named-to-govtech-100-list-for-tenth-consecutive-year/). All three of these sites are meatn for making government work more easier, and accesible to the public as well. 
+
+After finding these new sites for the software part of the topic, I was finally satisfied with the reserach that I have for my content. 
+
+
+
+[Previous](entry05.md) | [Next](entry07.md)
 [Home](../README.md)
