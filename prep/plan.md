@@ -29,6 +29,8 @@
 * Task
 * Add more animations using my tool
 * Add the shapes that I said I was going to add in my wireframe
+* Add new google fonts to divesify
+* Make the animations more subtle, not too eyecatching but noticeable 
 
 
 
