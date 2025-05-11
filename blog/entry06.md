@@ -144,7 +144,23 @@ After I removed the width, my cards became resposive once again, though some of 
 
 ## Skills 
 ### Organization 
-In order for your code to work properly, it has to be organized, otherwise it doesn't fucntion the way it supposed to. This can go for `divs`, indentation, 
+In order for your code to work properly, it has to be organized, otherwise it doesn't fucntion the way it supposed to. This can go for `divs`, indentation, and commenting. Without having indentation it can make the whole thing look messy, and you wouldn't know what goes or connects to what. Without organized divs it can mess up your whole code, and without commenting it makes it harder to know what each part of code is meant for.
+
+Therefore if you want your coding to be effeicent, and a smooth process you would have to learn to organize it properly. Which is why organization is a important skill to have when it comes to coding. 
+
+### Self-Teaching 
+Self teaching yourself is a important skill to have, since it allowed me to learn while I was doing my work at the same time. Sometimes in life you will have to teach yourself things, especially when that skill is fundamental to what you have to do. 
+
+For me it was mandatory to use the bootstrap grid system in my project, since it will allow me to get full points, therefore I had to teach myself how to use it while coding which made my website. And through the experience of learning and implementing what I learned at the same time, allowed me to learn it quicker. Which taught me the skill that if you are going to self-teach yourself, it's better to implement it as soon as you learn it for a better learning experience. 
+
+## EDP 
+In terms of EDP, we are at the stage where we are creating the protoype for our freedom project. For us to get the most that we can out of this prototype, we made our own plan and layout, which further allowed us to get the most basic version of our website to be completed. It also allowed us to make sure that our website is responsive properly. So basically in this stage of the EDP, we had to make sure that every key feature is working correctly. 
+
+## Takeaways 
+Overall coding the most basic version of our website, is something that I'm quite proud of. And honestly I believe that this project allowed me to learn the most about coding then I did all year because of the freedom that I was given on it which allowed me to interact with the code more. Though there is still much that I can improve on, I stil am proud of this version of my website, especially considering the fact that I was finally able to grasp a better understand of what we learned this year in SEP 10. 
+
+![site](https://github.com/user-attachments/assets/7ea40300-7d27-4500-b125-08bd65b041dd)
+
 
 
 
