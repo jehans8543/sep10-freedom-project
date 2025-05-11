@@ -78,6 +78,7 @@
     z-index: 1;
 }
 
+
 .box::before {
     content: '';
     position: absolute;
@@ -120,7 +121,7 @@
   }
 
   @keyframes borderAnimation {
-    0% {
+    50% {
       background-position: 0% 50%;
     }
     100% {
@@ -134,4 +135,7 @@
     border-radius: 10px;
 }
 
+.margin-card {
+    margin-bottom: 10px;
+}
 
