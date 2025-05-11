@@ -105,6 +105,48 @@ After doing a bit more seraching, I found the three sites that I was most satisf
 
 After finding these new sites for the software part of the topic, I was finally satisfied with the reserach that I have for my content. 
 
+## Challenges 
+### `div`
+The main thing that I found myself struggling on throughout coding my whole MVP, was the `divs`. Sometimes I would use columns and rows but then it won't appear. And everytime I double check it seems like I did correctly. And in order to solve my issues I would promptly delete the whole grid system and readd it, and despite doing the same thing as last time, it would show up this time. The reason for this being is the placement of divs being in the wrong area, which messes up the whole thing.
+
+This issue started happening so often, that I started to get really frustrated. Therfore I found a solution, I would label each div pair to exactly where it belongs, and would include extra spacing between them untill I know it works. Though this method isn't efficent, and took up more time it still solved my problem:
+
+``` HTML
+  <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+    <div class="accordion-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <img class="tech img-fluid" src="../img/hardware-4.jpg" alt="tech">
+                </div> <!--End of col image div-->
+                    <div class="col-md-6">
+                      <ul>
+                        <li>Central to national security, economy, public health, and etc.</li>
+                        <li>Produces and provides hardware, software, and information technology systems and services.</li>
+                      </ul>
+                </div> <!--End of col text div-->
+            </div> <!--End of row div-->
+        </div> <!--End of container div-->
+    </div>
+</div>
+</div>
+```
+As you can see from this snippet of code I had to comment each column, row, and container div in order for me to ensure that each div is in the right placement.
+
+### Responsive Cards 
+While creating my website, I wanted to make all the cards the same size, therefore I used `width: 18rem` or something along the lines of that, This would make the cards all the same size, and it will look appealing when it's on a large viewport, though when I would make the veiwport smaller, the cards will stay the same size, no matter what and it will just look weird along with the alignment
+
+At the time I didn't know that my issue was me adding the `width`, I thought it would have to do with the `col-md` sizes of my code. That is untill I asked Mr.Mueller, and that's when he pointed out that my issue had to do with the sizing of my cards having a fixed width, overwriting the responsiveness of the boostrap, causing it stay the same size no matter what. 
+
+After I removed the width, my cards became resposive once again, though some of them are different sizes which annoyed me, I told myself that I will fix it after I finish my MVP, and go beyond it. 
+
+![future](https://github.com/user-attachments/assets/e4a77e97-701e-4b1b-a436-6e81bace12f9)
+
+## Skills 
+### Organization 
+In order for your code to work properly, it has to be organized, otherwise it doesn't fucntion the way it supposed to. This can go for `divs`, indentation, 
+
+
 
 
 [Previous](entry05.md) | [Next](entry07.md)
