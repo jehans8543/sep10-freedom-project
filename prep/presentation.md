@@ -1,16 +1,31 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Real-World Scenario of the government, and connect it back to my content in a subtle way
 
 ## Product
-* 
+* Gifs of certain portions my website,
+  * Ensuring that they show off the animated parts of my webpage
+* Clip some of the content written on my webpage
+  * Condensing them, and then adding the bullet pointed version on my slides
 
 ## Process
-* 
+* Screenshots of the wireframes
+  * Showing the multiple versions of the wireframes and how
+  * Including the feedback I got on the wireframes
+* Showing the research that went behind my tool
+* Showing the resources that I used to enhance my code
+* Code Snippets:
+  * MVP and final product
+    * Comparing and contrasting the different code
 
 ## Conclusion
-* 
+* _URL of the webpage_
+* Takeaways
+  * "Interest follows action"
+    * Go in depth about how I started to accumulate an interest in computer science, and how the freedom of creating something and anything allowed me to gain that interest
+  * Self-Teaching (Connect this back to learning about animate.css, and how I had to relearn how to use bootstrap)
+    * Process on learning how to learn, and how you utilize every resources that is given or found allowing you to consume more information. Though the most effective method of self-learning is interacting with what you learned yourself.
 
 <!-- EXAMPLE
 
