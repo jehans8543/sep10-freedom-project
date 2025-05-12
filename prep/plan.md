@@ -25,12 +25,10 @@
 * Try animating the background using my tool
 * Fix all the spacing, trying to make it look perfect
 * Add links and a addictional information page
-* If possible link to another webpage, giving further in-depth explanations of every topic that I wrote about
-* Task
-* Add more animations using my tool
-* Add the shapes that I said I was going to add in my wireframe
-* Add new google fonts to divesify
-* Make the animations more subtle, not too eyecatching but noticeable 
+* Make the animations more relaxed, eye catching but like not in your face
+* Add animations to the cards, using the new animation tool that I found which is simialr to animate.css
+* Add decoration to the background such as shapes, and animating it
+* Add new fonts to diversify  
 
 
 

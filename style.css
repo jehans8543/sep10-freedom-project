@@ -1,5 +1,7 @@
 /* CSS code */
 
+
+
 #government {
     background-image: linear-gradient( rgba(15, 63, 173, 0.3), rgba(0, 127, 218, 1)), url(../img/government.jpg);
     background-attachment: fixed;
@@ -12,6 +14,16 @@
     height: auto;
     display: block;
 }
+
+ #particles-js {
+                position: fixed;
+                width: 100%;
+                height: 100%;
+                top: 0;
+                left: 0;
+                z-index: -1;
+                background-color: #468faf;
+              }   <!--particles-->
 
 .title-text {
     text-align: center;
@@ -138,4 +150,14 @@
 .margin-card {
     margin-bottom: 10px;
 }
+
+.card {
+    box-shadow: 0 4px 6px rgba(0,0,0,0.5);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display:flex;
+}
+ .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 8px 16px rgba(0,0,0,0.6);
+    }
 

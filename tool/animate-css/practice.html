@@ -8,59 +8,383 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
         <link href="style.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+        <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <style>
             /* CSS */
+                        body{
+              font-family: 'Playfair Display', serif;
+              background-color: #468faf;
+              justify-content: center;
+              align-items: center;
+              height: 100vh;
+              margin: 0;
+            }
+
+            p {
+              font-weight: 400;
+            }
+
+            h1 {
+              font-weight: 750;
+              color: white;
+            }
+
+            h2 {
+              font-weight: 550;
+            }
 
         </style>
-
-        <title>Tinkering</title>
     </head>
     <body>
         <!-- HTML -->
-         <div>
-            <nav class="navbar bg-body-tertiary">
-                <div class="container-fluid">
-                  <a class="navbar-brand animate__animated animate__jello" href="#" >
-                    Bootstrap
-                  </a>
+<div id="particles-js"></div>
+ <!--Navbar-->
+          <div>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+                <a class="navbar-brand" href="#government">Government</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                  <ul class="navbar-nav">
+                    <li class="nav-item active">
+                      <a class="nav-link" href="#context">Context</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#softwares">Softwares</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#hardwares">Hardwares</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#innovations">Future Innovations</a>
+                    </li>
+                  </ul>
                 </div>
               </nav>
-         </div>
-         <br>
-         <div class="container-fluid">
-            <div style="text-align: center;">
-                <h1 class="animate__animated animate__rubberBand">Tinkering</h1>
+          <div class= "container-fluid" id="government">
+            <div class="title-text">
+            <h1 class="title animate__animated animate__backInDown">Government</h1>
             </div>
+          </div>
          </div>
+         <!--Intro-->
          <br>
-         <div class="container-md">
-            <p class="animate__animated animate__heartBeat">Throughout history we have seen the changes that our media and culture has gone through, as society evolved. We shaped it based on our perception of our surroundings, and with the knowledge that we have. Anything can change the media and culture, some having a bigger impact than others. An example of this change being present is with birds and their existence. Especially as they evolved and played a fundamental aspect in our world. The characteristics that birds have portrayed, and the major studies that were made based on their evolution, is what made an impact on the changes our media has gone through. Birds have a significant impact on global media and culture.
+         <br>
+         <div class="box">
+          <div class="container text-align">
+            <div class="row">
+              <div class="col-md-6 image-one">
+               <img class="function" src="../img/function.jpg" alt="Government Bulidling Background Image" style="max-width: 100%; height: auto;">
+              </div>
+              <br>
+           <div class="col-md-6">
+            <h2 class="context animate__animated animate__heartBeat animate__infinite" id="context">Context</h2>
+            <p>What is the government? When you think about it may seem like an easy question to answer. Most typically saying, <em>“The government is a group of people who run the country”</em> or <em>“They make laws”</em>. All of these are simple, but yet factually correct answers. Most of them being universally correct answers. Though if you wanted to have a more complex answer, it would vary depending on the person and region. The reason for this being that there are different types of governments all around the world. Such as a democracy, in which the people have the power. There’s monarchies with their country being ruled by a king or queen. Then we have authoritarianism with the power being held by one person or a small group. We then have a republic, with the citizens having the ability to elect their representative. There’s also a theocracy, a nation being ruled by religious law. As you can see all these types of governments vary from one another to a different extent. Therefore, changing the perspective and belief of people who give an in-depth answer as to what the government is. Despite the differences, there is something that every government around the world can commonly agree on. They exist to create order, manage society, and maintain control—regardless of who’s in charge or how they got there. In order for them to achieve this they use technology such as <b>softwares</b> and <b>hardwares</b> to make that job more efficient for them.
             </p>
-         </div>
-         <br>
-         <br>
-         <div class="alert alert-success container-md animate__animated animate__tada" role="alert">
-            A simple success alert—check it out!
-          </div>
-          <br>
-          <br>
-          <div class="card" style="width: 18rem;">
-            <div class="card-body" style="text-align:center;">
-              <h5 class="card-title">Card title</h5>
-              <h6 class="card-subtitle mb-2 text-body-secondary">Card subtitle</h6>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              <a href="#" class="card-link">Card link</a>
-              <a href="#" class="card-link">Another link</a>
             </div>
           </div>
+        </div>
+      </div>
+      <br>
+      <br>
+      <br>
+      <!--Government Softwares-->
+      <div class="box">
+      <div>
+        <h2 style="text-align:center;" id="softwares" class="animate__animated animate__pulse animate__infinite">Softwares</h2>
+      </div>
+      <br>
+      <!--Cards (Part A)-->
+      <div class="container-lg">
+        <div class="container my-5">
+          <div class="row mx-auto p-2 gy-3 g-4">
+            <!--Card 1-->
+            <div class="col-lg-4 margin-card">
+              <div class="card h-100">
+                <div class="card-body d-flex flex-column">
+                  <h5 class="card-title"><b>OpenGov</b></h5>
+                  <ul class="card-text">
+                    <li>Cloud based platform involving financial management, budgeting, and transparency</li>
+                    <ul>
+                      <li>Helps governments, municipalities, and other public organizations</li>
+                    </ul>
+                    <li>The app and site is accessible to any local or federal government in the U.S.</li>
+                    <li>Performance Management</li>
+                    <ul>
+                      <li>Helps the government track performance management</li>
+                      <li>Manage key outcomes</li>
+                    </ul>
+                    <li>Data Visualization and Reporting</li>
+                    <ul>
+                      <li>Governments can create interactive charts, reports, and dashboards</li>
+                    </ul>
+                  </ul>
+                  <a href="https://opengov.com/" class="btn btn-primary">Link to Site</a>
+                </div>
+              </div>
+            </div>
+            <!--End of Card 1-->
+            <!--Start of Card 2-->
+            <div class="col-lg-4 margin-card">
+              <div class="card h-100">
+                <div class="card-body d-flex flex-column">
+                  <h5 class="card-title"><b>Oracle</b></h5>
+                  <ul class="card-text">
+                    <li>A database management system,cloud services, and enterprise resource planning (ERP) solutions.</li>
+                    <li>Data Management & Storage</li>
+                    <ul>
+                      <li>Robust system for managing and storing large datasets</li>
+                      <li>Used in government departments such as citizen, financal, and etc.</li>
+                    </ul>
+                    <li>Cloud Solutions</li>
+                    <ul>
+                      <li>Orcale Cloud Infrastructure and Cloud Applications are used to host critical applications and services:</li>
+                      <ul>
+                        <li>Infrastructure-as-a-Service (IaaS), Platform-as-a-Service (PaaS)</li>
+                      </ul>
+                    </ul>
+                  </ul>
+                  <a href="https://www.oracle.com/" class="btn btn-primary">Link to Site</a>
+                </div>
+              </div>
+            </div>
+            <!--End of Card 2-->
+            <!--Start of Card 3-->
+            <div class="col-lg-4 margin-card">
+            <div class="card h-100">
+              <div class="card-body d-flex flex-column">
+                <h5 class="card-title"><b>Accela</b></h5>
+                <ul class="card-text">
+                  <li>Meant for government agencies to streamline and automate processes</li>
+                  <li>Provides a suite of cloud-based solutions to improve efficiency, transparency, and the overall experience for anyone using.</li>
+                  <ul>
+                    <li>Cloud-Based Platform: can be acccessed anywhere</li>
+                    <li>Code Enforcenment: manages violations of building codes, zoning laws, or other regulations</li>
+                    <li>Citizen Engagement: Citizens can access services online, like applying for permits, licenses or tracking the status of requests, etc.</li>
+                  </ul>
+                </ul>
+                <a href="https://www.accela.com/" class="btn btn-primary">Link to Site</a>
+              </div>
+            </div>
           </div>
+            <!--End of Card 3-->
+          </div>
+        </div>
+      </div>
+<!--<div class="row mx-auto p-2">-->
+      <!--End of Cards (Part A)-->
+      <br>
+      <br>
+      <div class="container-md">
+      <p>The softwares OpenGov, Oracle, and Accela are all considered to be crucial resources used in the government for numerous reasons. They all give governments real-time access to data, dashboards, and reports, allowing them to make faster decisions based on accurate information. With the use of these softwares the government was also able to catch public trust and transparency, aligning with the citizens appeal. These platforms make financial data, performance metrics, and project updates available to the public, building that trust and accountability. Not only do they upload their data, but they also make it available for the public to use such as online permits, licenses, or budget participation. Improving convenience for citizens and reduces in-person workload. Without these platforms our governments would be less efficient, transparent, and less capable of meeting the needs of modern citizens.
+      </p>
+      </div>
+    </div>
+      <!--End of Part A-->
+      <!--Start of Part B-->
+      <br>
+      <br>
+      <div class="box">
+      <div>
+      <h2 style="text-align:center;" id="hardwares" class="animate__animated animate__tada animate__infinite">Hardwares</h2>
+      </div>
+      <br>
+      <div class="container-md">
+        <p>Physical Access Control Systems (PACS), Information Technology (IT) infrastructure, and Intrusion Detection Systems (IDS) are all directly correlated with the government responsibility to protect people, information, and infrastructure. They are all considered to be essential government hardware components because they protect the core physical and digital infrastructure that governments rely on to function safely, securely, and efficiently. </p>
+      </div>
+      <br>
+      <div class="container-md">
+        <!--Accordion One-->
+        <div class="accordion" id="accordionPanelsStayOpenExample">
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseOne" aria-expanded="true" aria-controls="panelsStayOpen-collapseOne"><b>Physical Access Control Systems (PACS)</b>
+              </button>
+            </h2>
+            <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-sm-6">
+                      <img class="pacs img-fluid" src="../img/hardware-1.jpg" alt="PACS">
+                    </div> <!--Ending of image-->
+                    <div class="col-md-6">
+                      <ul>
+                        <li>Enterprise intelligence systems of hardware and software deployed to control accesses through perimeter entries, internal control points, and protected spaces.</li>
+                        <li>Include, but are not limited to, Personal Identity Verification card readers, door controllers, turnstiles, request to exit devices, door position switches/sensors, electric door strikes, Fiber Optic cabling infrastructure, middleware, switches, and servers.</li>
+                      </ul>
+                    </div> <!--Ending of PACS text div-->
+                  </div> <!--Ending of row div-->
+                </div> <!--Ending of container div-->
+              </div>
+            </div>
+          </div>
+          <!--End of Accordion One-->
+          <!--Start of Accordion Two-->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false" aria-controls="panelsStayOpen-collapseTwo">
+                <b>Information Technology Sector</b>
+              </button>
+            </h2>
+            <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <img class="tech img-fluid" src="../img/hardware-4.jpg" alt="tech">
+                    </div> <!--End of col image div-->
+                    <div class="col-md-6">
+                      <ul>
+                        <li>Central to national security, economy, public health, and etc.</li>
+                        <li>Produces and provides hardware, software, and information technology systems and services.</li>
+                      </ul>
+                    </div> <!--End of col text div-->
+                  </div> <!--End of row div-->
+                </div> <!--End of container div-->
+              </div>
+            </div>
+          </div>
+          <!--End of Accordion 2-->
+          <!--Start of Accordion 3-->
+          <div class="accordion-item">
+            <h2 class="accordion-header">
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false" aria-controls="panelsStayOpen-collapseThree">
+                <b>Intrusion Detection Systems (IDS)</b>
+              </button>
+            </h2>
+            <div id="panelsStayOpen-collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+              <div class="accordion-body">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-md-6">
+                      <img class="ids img-fluid" src="../img/hardware-3.png" alt="IDS">
+                    </div> <!--End of col for image-->
+                    <div class="col-md-6">
+                      <ul>
+                        <li>Programmed to detect intrusion into certain protected spaces, such as facility perimeter spaces (perimeter access locations like doors, windows, roof hatches, etc.)</li>
+                        <li>IDS communicate alarms to monitoring stations to signal for the appropriate response to the alarmed location.</li>
+                      </ul>
+                    </div> <!--End of col for text-->
+                  </div> <!--End of row div-->
+                </div> <!--End of contianer div-->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--End of Accordion 3-->
+      <!--End of Part B-->
+      <!--Start of Future Invoations-->
+      <br>
+      <br>
+      <div class="box">
+      <div>
+        <h2 style="text-align: center;" id="innovations" class="animate__animated animate__bounce animate__infinite">Future Innovations</h2>
+      </div>
+      <br>
+      <div class="container-lg my-5">
+        <div class="row g-4">
+          <div class="col align-self margin-card">
+            <div class="card h-100">
+              <div class="card-body d-flex flex-column">
+                <h5 class="card-title"><b>Corruption Monitoring System</b></h5>
+                <ul class="card-text">
+                  <li>Using AI to analyze financial transactions, looking for patterns to detect if any fraud is happening</li>
+                  <li>Public dashboards showing how tax dollars are spent</li>
+                  <li>Financial systems to track all public spending transparently in real time.</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col align-self margin-card">
+            <div class="card h-200">
+              <div class="card-body d-flex flex-column">
+                <h5 class="card-title"><b>National cybersecurity neural network</b></h5>
+                <ul class="card-text">
+                  <li>Self-learning neural network that detects and neutralizes cyberattacks in real time</li>
+                  <li>Coordination for public and private networks for seamless cybersecurity defense</li>
+                  <li>Automated stress tests for critical government systems </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col align-self margin-card">
+            <div class="card h-100">
+              <div class="card-body d-flex flex-column">
+                <h5 class="card-title"><b>Decentralized digital identifying system</b></h5>
+                <ul class="card-text">
+                  <li>Unified access to healthcare, voting, and tax services through this id</li>
+                  <li>Integration with global standards for international travel and global security</li>
+                  <li>Block-chained based digital id that securely stores personal data, only accessible with citizen consent</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
 
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+
         <!-- <script src="script.js"></script> -->
         <script>
             // JS
-
+particlesJS("particles-js", {
+  particles: {
+    number: { value: 80 },
+    color: { value: "#ffffff" },
+    shape: {
+      type: "circle",
+      stroke: { width: 0, color: "#000000" }
+    },
+    opacity: {
+      value: 0.5,
+      random: false
+    },
+    size: {
+      value: 3,
+      random: true
+    },
+    line_linked: {
+      enable: true,
+      distance: 150,
+      color: "#ffffff",
+      opacity: 0.4,
+      width: 1
+    },
+    move: {
+      enable: true,
+      speed: 2,
+      direction: "none",
+      random: false,
+      straight: false,
+      out_mode: "out"
+    }
+  },
+  interactivity: {
+    detect_on: "canvas",
+    events: {
+      onhover: {
+        enable: true,
+        mode: "repulse"
+      },
+      onclick: {
+        enable: true,
+        mode: "push"
+      }
+    },
+    modes: {
+      repulse: { distance: 100 },
+      push: { particles_nb: 4 }
+    }
+  },
+  retina_detect: true
+});
 
         </script>
     </body>
