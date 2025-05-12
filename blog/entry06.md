@@ -105,6 +105,64 @@ After doing a bit more seraching, I found the three sites that I was most satisf
 
 After finding these new sites for the software part of the topic, I was finally satisfied with the reserach that I have for my content. 
 
+## Challenges 
+### `div`
+The main thing that I found myself struggling on throughout coding my whole MVP, was the `divs`. Sometimes I would use columns and rows but then it won't appear. And everytime I double check it seems like I did correctly. And in order to solve my issues I would promptly delete the whole grid system and readd it, and despite doing the same thing as last time, it would show up this time. The reason for this being is the placement of divs being in the wrong area, which messes up the whole thing.
+
+This issue started happening so often, that I started to get really frustrated. Therfore I found a solution, I would label each div pair to exactly where it belongs, and would include extra spacing between them untill I know it works. Though this method isn't efficent, and took up more time it still solved my problem:
+
+``` HTML
+  <div id="panelsStayOpen-collapseTwo" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+    <div class="accordion-body">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <img class="tech img-fluid" src="../img/hardware-4.jpg" alt="tech">
+                </div> <!--End of col image div-->
+                    <div class="col-md-6">
+                      <ul>
+                        <li>Central to national security, economy, public health, and etc.</li>
+                        <li>Produces and provides hardware, software, and information technology systems and services.</li>
+                      </ul>
+                </div> <!--End of col text div-->
+            </div> <!--End of row div-->
+        </div> <!--End of container div-->
+    </div>
+</div>
+</div>
+```
+As you can see from this snippet of code I had to comment each column, row, and container div in order for me to ensure that each div is in the right placement.
+
+### Responsive Cards 
+While creating my website, I wanted to make all the cards the same size, therefore I used `width: 18rem` or something along the lines of that, This would make the cards all the same size, and it will look appealing when it's on a large viewport, though when I would make the veiwport smaller, the cards will stay the same size, no matter what and it will just look weird along with the alignment
+
+At the time I didn't know that my issue was me adding the `width`, I thought it would have to do with the `col-md` sizes of my code. That is untill I asked Mr.Mueller, and that's when he pointed out that my issue had to do with the sizing of my cards having a fixed width, overwriting the responsiveness of the boostrap, causing it stay the same size no matter what. 
+
+After I removed the width, my cards became resposive once again, though some of them are different sizes which annoyed me, I told myself that I will fix it after I finish my MVP, and go beyond it. 
+
+![future](https://github.com/user-attachments/assets/e4a77e97-701e-4b1b-a436-6e81bace12f9)
+
+## Skills 
+### Organization 
+In order for your code to work properly, it has to be organized, otherwise it doesn't fucntion the way it supposed to. This can go for `divs`, indentation, and commenting. Without having indentation it can make the whole thing look messy, and you wouldn't know what goes or connects to what. Without organized divs it can mess up your whole code, and without commenting it makes it harder to know what each part of code is meant for.
+
+Therefore if you want your coding to be effeicent, and a smooth process you would have to learn to organize it properly. Which is why organization is a important skill to have when it comes to coding. 
+
+### Self-Teaching 
+Self teaching yourself is a important skill to have, since it allowed me to learn while I was doing my work at the same time. Sometimes in life you will have to teach yourself things, especially when that skill is fundamental to what you have to do. 
+
+For me it was mandatory to use the bootstrap grid system in my project, since it will allow me to get full points, therefore I had to teach myself how to use it while coding which made my website. And through the experience of learning and implementing what I learned at the same time, allowed me to learn it quicker. Which taught me the skill that if you are going to self-teach yourself, it's better to implement it as soon as you learn it for a better learning experience. 
+
+## EDP 
+In terms of EDP, we are at the stage where we are creating the protoype for our freedom project. For us to get the most that we can out of this prototype, we made our own plan and layout, which further allowed us to get the most basic version of our website to be completed. It also allowed us to make sure that our website is responsive properly. So basically in this stage of the EDP, we had to make sure that every key feature is working correctly. 
+
+## Takeaways 
+Overall coding the most basic version of our website, is something that I'm quite proud of. And honestly I believe that this project allowed me to learn the most about coding then I did all year because of the freedom that I was given on it which allowed me to interact with the code more. Though there is still much that I can improve on, I stil am proud of this version of my website, especially considering the fact that I was finally able to grasp a better understand of what we learned this year in SEP 10. 
+
+![site](https://github.com/user-attachments/assets/7ea40300-7d27-4500-b125-08bd65b041dd)
+
+
+
 
 
 [Previous](entry05.md) | [Next](entry07.md)
