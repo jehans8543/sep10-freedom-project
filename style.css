@@ -30,6 +30,12 @@
 
 }
 
+.open-gov {
+    width:100px;
+    height: auto;
+    text-align: center;
+}
+
 .image-one {
     border-radius: 8px;
     width: 500px;
