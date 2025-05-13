@@ -2,6 +2,8 @@
 
 ## Hook
 * Real-World Scenario of the government, and connect it back to my content in a subtle way
+* "The Governmetn spends over $100 billion dollars on information technology"
+  *  Majority of this funding goes towards the softwares and hardwares, all for our government to run smoothly. 
 
 ## Product
 * Gifs of certain portions my website,
