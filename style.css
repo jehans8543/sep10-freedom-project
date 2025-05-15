@@ -3,7 +3,7 @@
 
 
 #government {
-    background-image: linear-gradient( rgba(15, 63, 173, 0.3), rgba(0, 127, 218, 1)), url(../img/government.jpg);
+    background-image: linear-gradient( rgba(15, 63, 173, 0.3), rgba(0, 127, 218, 1)), url(img/government.jpg);
     background-attachment: fixed;
     background-size: cover;
     background-position:center;
