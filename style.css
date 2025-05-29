@@ -36,18 +36,22 @@
 }
 
 .navbar {
-    width: 100%;
-    border-radius: 0px;
-    padding: 8px 16px;
-    transition: all 0.3s ease;
-    display: flex;
-    gap: 1rem;
+    border-radius: 0;
 }
 
-.navbar a:hover{
+.navbar a:hover {
+    border-radius: 10px;
     background: #add8e6;
-    border-radius: 12px;
 }
+
+.navbar .navbar-brand,
+.navbar .nav-link {
+  padding-top: 15px;  /* adjust to vertically align */
+  padding-bottom: 20px;
+}
+
+
+
 
 .open-gov {
     width:100px;
