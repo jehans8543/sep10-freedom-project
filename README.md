@@ -16,9 +16,14 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **a
 
 ## Implications
 ##### PROS
-* 
+* The organization, and the use of the boostrap grid system
+* The in-depth inofrmation of the softwares, hardwares, and context of my website
+* The color-scheme of my website was eye catching
+* The javascript particles used in the background of my website
 ##### CONS
-* 
+* My future innovations weren't very creative
+  * Some only enhancing existing technologies
+* There were some bugs with my cards in the mobile version of my website 
 
 
 ## Blog
@@ -31,6 +36,3 @@ Below you will find my blog about how I made my project.
 * [Entry 5](blog/entry05.md)
 * [Entry 6](blog/entry06.md)
 * [Entry 7](blog/entry07.md)
-* [Entry 8](blog/entry08.md)
-* [Entry 9](blog/entry09.md)
-* [Entry 10](blog/entry10.md)
