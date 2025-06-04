@@ -22,6 +22,13 @@ As you can see aboove I got a 10/10 on my product, which I sort of expected beca
 
 After reading my feedback for my presentation, I realized that I have to be more prepared for my presentation, and think of what I'm gonna say beforehand that way I can maintain eye contact with the audience. 
 
+## Expo
+In the middle of in-class presentations the expo happened. And luckily for me the expo happened after I finshed the presentation that I gave in class. Which made it easier for me to know what I have to improve on, in preperation for the expo. 
+
+The catch was that we couldn't use our slides, and isntead we only had to rely on our website and the _elevator pitch_ that we would have to create. 
+
+The requirements for the elevator pitch was for it to be under a minute and for it to cover all the main points of your website. 
+
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
