@@ -23,7 +23,9 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **a
 ##### CONS
 * My future innovations weren't very creative
   * Some only enhancing existing technologies
-* There were some bugs with my cards in the mobile version of my website 
+* There were some bugs with my cards in the mobile version of my website
+* I didn't have the time to add more images that correlate with my topic
+* I didn't get to add some of the bootstrap elements that I orginally intended to add 
 
 
 ## Blog
