@@ -27,7 +27,33 @@ In the middle of in-class presentations the expo happened. And luckily for me th
 
 The catch was that we couldn't use our slides, and isntead we only had to rely on our website and the _elevator pitch_ that we would have to create. 
 
-The requirements for the elevator pitch was for it to be under a minute and for it to cover all the main points of your website. 
+The requirements for the elevator pitch was for it to be under a minute and for it to cover all the main points of your website. Creating the elevator pitch was fairly easy for me to do, with it taking around 10 minutes for me to come up with: 
+![Screenshot 2025-06-05 203812](https://github.com/user-attachments/assets/e3b1f85f-3e59-44a0-83ca-62431129cd7e)
+
+Writing the elevator pitch was easy, though the toughest part was to memorize it
+
+### Day of the Expo
+During the day of the expo it's safe to say that I was extremely unprepared. I didn't take the time to memorize my elevator pitch, which made my presentation awkawrd in the begining. 
+
+First period of the expo the people who visited me was mainly my friends, so it was hard for me to be serious during my presentation. Though once some other people start to come, whom I didn't know, I started to make things up on the spot which made me sttuter and hesitate a lot. 
+
+When I had no one visting my website, I took time to look over my elevator pitch and took time memorizing it. By the time the judges came, I believe that I gave a pretty solid presentation and description of my website. Though something I believe I could have done differently is explain my reserach and inventions a bit more. Though other than that I was sastisfied with my project in the end. 
+
+Later that day during our SEP period, Mr.Mueller announced the finalists and the honorable mentions in my class. And I found that **_I was one of the honorable mentions_**. I was both shocked at this news but also wasn't too surprised at the same time, because of the amount of effort I put in my website. After I heard this announcement I was extremely proud of myself and the work I done this year. 
+
+## EDP 
+We are at the final stage of our EDP, since we are officially finished with the freedom project and its contents this year. We were judged from the student judges who were in our positions in the expo, and it felt like a rewarding experience since it feels like the work that I did all year was being recgonized and judged properly. Which made me proud of my work. 
+
+## Skills 
+### Effort
+Throughout the whole freedom project, I realized that if you want to get far with something you have to **put effort in**. Without putting the effort in you won't be able to get far, especially when it comes to projects like these, when you are given a large amount of freedom. The more freedom that you are given the more effort that you would have to put in order for it to stand out. With the amount of effort that I put in my project, I was able to get it recgonized for that effot by getting honorable mention. 
+
+### Preperation
+One of the major skills that I learned is that you always have to be prepared. For the in class presentations I found myself being extremly unprepared, with my jamabling informnation together, making me lose points. As for the expo I was also unprepeared and had to memorize everything last minute. If I came into my project more prepared, I believed that my presentations would have recieved full points. And that I would have gotten a over higher rating in general. Now that I learned the importance in preparation, I can incooperate that for my next presentations and freedom projects next time. 
+
+## Takeawys
+Overall I believe that the freedom project was a impactful experience. Though I had mixed feelings about it at first, and complicated ones while creating the website. I still believe that the freedom project for me was an impactful experience, because it allowed me to further delve into my passion for law, and ensuring myself that I want to presure it in the future. And for the future I plan to do more of my freedom projects about law and exploring different aspects of it. 
+
 
 [Previous](entry06.md) | [Next](entry08.md)
 
