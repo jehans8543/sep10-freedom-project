@@ -44,6 +44,11 @@ Later that day during our SEP period, Mr.Mueller announced the finalists and the
 ## EDP 
 We are at the final stage of our EDP, since we are officially finished with the freedom project and its contents this year. We were judged from the student judges who were in our positions in the expo, and it felt like a rewarding experience since it feels like the work that I did all year was being recgonized and judged properly. Which made me proud of my work. 
 
+### Links
+_Slides_: [presentation](https://docs.google.com/presentation/d/16FVzUMD7_vuQJzgijG6uMKcURbhmbShhN3KEv2K7tHw/edit?slide=id.p#slide=id.p)
+
+_Website_: [Government Website](https://jehans8543.github.io/sep10-freedom-project/)
+
 ## Skills 
 ### Effort
 Throughout the whole freedom project, I realized that if you want to get far with something you have to **put effort in**. Without putting the effort in you won't be able to get far, especially when it comes to projects like these, when you are given a large amount of freedom. The more freedom that you are given the more effort that you would have to put in order for it to stand out. With the amount of effort that I put in my project, I was able to get it recgonized for that effot by getting honorable mention. 
